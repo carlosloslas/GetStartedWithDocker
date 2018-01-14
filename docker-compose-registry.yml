@@ -1,9 +1,9 @@
 version: "3"
 services:
   web:
-    image: carlosloslas/get_started_with_docker:part2
+    image: carlosloslas/get_started_with_docker:2container
     deploy:
-      replicas: 5
+      replicas: 2
       resources:
         limits:
           cpus: "0.1"
