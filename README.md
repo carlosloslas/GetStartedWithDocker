@@ -8,5 +8,5 @@ Contents of the tutorial @ Docker.com
 2. Containers -> Build the app & deploy it with Docker
 3. Services -> Build a service which is made up of a configurable number of containers using ```docker-compose.yml```
 4. Swarms -> running a service over multiple containers and machines (dockerized cluster -> swarm)
-5. Stacks
+5. Stacks -> collection of services. In this case a visualizer and a redis database.
 6. Deploy your app
