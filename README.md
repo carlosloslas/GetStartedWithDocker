@@ -10,3 +10,8 @@ Contents of the tutorial @ Docker.com
 4. Swarms -> running a service over multiple containers and machines (dockerized cluster -> swarm)
 5. Stacks -> collection of services. In this case a visualizer and a redis database.
 6. Deploy your app
+
+## Other nice resources
+
+- https://hub.docker.com/explore/ -> Official repositories with docker images.
+- https://cloud.docker.com/ -> Docker's open & free registry. Similar to github, but for docker images. 
