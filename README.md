@@ -7,6 +7,6 @@ Contents of the tutorial @ Docker.com
 1. Orientation -> Install & test installation
 2. Containers -> Build the app & deploy it with Docker
 3. Services -> Build a service which is made up of a configurable number of containers using ```docker-compose.yml```
-4. Swarms
+4. Swarms -> running a service over multiple containers and machines (dockerized cluster -> swarm)
 5. Stacks
 6. Deploy your app
